@@ -8,7 +8,6 @@ import {
 import Home from './Home'
 import About from "./About"
 import Contacts from './Contacts';
-
 import NavBar from "./NavBar"
 
 function App() {
