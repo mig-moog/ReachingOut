@@ -56,3 +56,14 @@ nav * {
   list-style-type: none;
   margin: 2pt 5pt;
 }
+#text_page{
+  margin-left: auto;
+  margin-right: auto;
+  width: 50vh;
+  height: 100vh;
+  background-color: antiquewhite;
+  padding:10px;
+}
+#break{
+  background-color: black;
+}
