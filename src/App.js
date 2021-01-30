@@ -28,13 +28,13 @@ function App() {
         </nav>
     <Switch>
         <Route path="/home">
-          <Home></Home>
+          <Home />
         </Route>
         <Route path="/about">
-          <About></About>
+          <About />
         </Route>
         <Route path="/contacts">
-          <Contacts></Contacts>
+          <Contacts />
         </Route>
     </Switch>
       </div>
