@@ -1,5 +1,5 @@
 import React from 'react';
-import insta from './insta.png'
+import insta from './insta2.png'
 class Contacts extends React.Component{
     render(){
         return(
