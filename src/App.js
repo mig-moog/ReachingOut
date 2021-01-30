@@ -8,7 +8,8 @@ import {
 import Home from './Home'
 import About from "./About"
 import Contacts from './Contacts';
-import NavBar from "./NavBar"
+import NavBar from "./NavBar";
+import Footer from "./Footer";
 
 function App() {
   return (
@@ -29,6 +30,7 @@ function App() {
             <Home></Home>
           </Route>
         </Switch>
+        <Footer/>
       </div>
     </Router>
   );
