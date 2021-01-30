@@ -1,0 +1,31 @@
+#who {
+    text-align: center;
+}
+
+.left-bio {
+    min-height: 360px;
+    padding-left: 2%;
+}
+.left-bio > p {
+    padding: 5%;
+    margin-top: 2%;
+}
+
+.right-bio {
+    min-height: 360px;
+    padding-right: 2%;
+}
+.right-bio > p {
+    padding: 5%;
+    margin-top: 2%;
+}
+
+.pfp {
+    border-radius: 50%;
+    float: left;
+}
+
+.right-pfp {
+    border-radius: 50%;
+    float: right;
+}
