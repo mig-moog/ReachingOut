@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+nav {
+  background-color: #1245F6;
+  display:flex;
+  height:36pt;
+  justify-content: left;
+  align-items: center;
+}
+
+nav>img {
+  color: red;
+}
+
+nav * {
+  display:inline;
+  text-decoration: none;
+  color:#FFF;
+  list-style-type: none;
+  margin: 2pt 5pt;
+}
