@@ -10,7 +10,8 @@ import About from "./About"
 import Contacts from './Contacts';
 import NavBar from "./NavBar";
 import Footer from "./Footer";
-import Partners from "./partners"
+import Partners from "./partners";
+import Future from "./future";
 function App() {
   return (
     <Router>
@@ -28,6 +29,9 @@ function App() {
           </Route>
           <Route path='/partners'>
             <Partners />
+          </Route>
+          <Route path='/future'>
+            <Future />
           </Route>
           <Route path="/">
             <Home />

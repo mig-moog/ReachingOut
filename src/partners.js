@@ -9,6 +9,7 @@ class Partners extends React.Component {
     render() {
         return (
             <div id='partner_list'>
+                <h1 id='our_partners'>Our Partners</h1>
                 <h2 id='partnerz'>We would not be able to do this if it weren't for our partners</h2>
                 <table id='partner_table' border="5" cellpadding="7">
                     <tbody>
