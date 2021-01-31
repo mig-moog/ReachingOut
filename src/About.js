@@ -16,7 +16,7 @@ export default class About extends React.Component {
                 
                 <div className="right-bio">
                     <img className="right-pfp" src={pfpAlex} alt="alex-face" />
-                    <p>Alexander Wiegand is a web and python developer who runs a <a href="alexwiegand.com">coding blog</a>.</p>
+                    <p>Alexander Wiegand is a web and python developer who runs a <a href="//alexwiegand.com">coding blog</a>.</p>
                 </div>
                 
                 <div className="left-bio">
