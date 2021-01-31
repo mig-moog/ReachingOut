@@ -54,14 +54,13 @@ nav * {
 #partner_list{
   background-color: #3d8cc4;
   width: 100vw;
-  height: 95vh;
+  height: 120vh;
 }
 #partner_table{
   width: 100%;
 }
 .internet_provider{
   width:200px;
-  height:150px;
   padding: 10px;
   display: block;
   margin-left: auto;
@@ -69,11 +68,11 @@ nav * {
 }
 .tabletop{
   text-align: center;
-  color: green;
+  color: #FFF;
 }
 #partnerz{
   text-align: center;
-  color: rgb(255, 136, 0);
+  color: #FFF;
 }
 #contacts{
   width: 50vw;

@@ -14,26 +14,26 @@ class Partners extends React.Component {
                 <table id='partner_table' border="5" cellpadding="7">
                     <tbody>
                         <tr>
-                            <td><h1 class='tabletop'>Internet Providers</h1></td>
-                            <td><h1 class='tabletop'>Laptop Providers</h1></td>
+                            <td><h1 className='tabletop'>Internet Providers</h1></td>
+                            <td><h1 className='tabletop'>Laptop Providers</h1></td>
                         </tr>
                         <tr>
                             <td>
                                 <div>
-                                    <img class='internet_provider' alt='internet1' src={sprint}></img>
+                                    <img className='internet_provider' alt='internet1' src={sprint}></img>
                                     <br />
-                                    <img class='internet_provider' alt='internet2' src={verizon}></img>
+                                    <img className='internet_provider' alt='internet2' src={verizon}></img>
                                     <br />
-                                    <img class='internet_provider' alt='internet3' src={att}></img>
+                                    <img className='internet_provider' alt='internet3' src={att}></img>
                                 </div>
                             </td>
                             <td>
                                 <div>
-                                    <img class='internet_provider' alt='internet1' src={google}></img>
+                                    <img className='internet_provider' alt='internet1' src={google}></img>
                                     <br />
-                                    <img class='internet_provider' alt='internet2' src={apple}></img>
+                                    <img className='internet_provider' alt='internet2' src={apple}></img>
                                     <br />
-                                    <img class='internet_provider' alt='internet3' src={dell}></img>
+                                    <img className='internet_provider' alt='internet3' src={dell}></img>
                                 </div>
                             </td>
                         </tr>
