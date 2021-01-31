@@ -46,12 +46,13 @@ nav * {
 #instalogo{
   width:50px;
   height: 50px;
+  padding: 10px;
 }
 #the_laptop{
   height: 100px;
 }
 #partner_list{
-  background-color: aqua;
+  background-color: #3d8cc4;
   width: 100vw;
   height: 85vh;
 }
@@ -72,8 +73,25 @@ nav * {
 }
 #partnerz{
   text-align: center;
-  color: blue;
+  color: rgb(255, 136, 0);
 }
 #contacts{
+  width: 50vw;
   height: 90vh;
+  background-color: #0f1de2;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+#gmail_logo{
+  height: 150px;
+  width: 150px;
+}
+#instatext{
+  padding: 30px;
+  color: cyan;
+}
+h3{
+  padding: 10px;
+  color:rgb(0, 195, 255);
 }
