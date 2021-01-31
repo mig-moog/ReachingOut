@@ -1,16 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
-
+body{
+  background-color: #180d2f;
+}
 h1 {
   font-family: 'Potta One', cursive;
+  color: azure;
 }
 
 p {
   font-family: 'Roboto Slab', serif;
+  font-size: 19px;
 }
 
 nav {
-  background-color: #1245F6;
+  background-color: #10578a;
   display:flex;
   height:36pt;
   justify-content: left;
@@ -28,18 +32,76 @@ nav * {
   list-style-type: none;
   margin: 2pt 5pt;
 }
+#reaching_out{
+  text-align: center;
+}
 #text_page{
   margin-left: auto;
   margin-right: auto;
   width: 50vh;
   height: 100vh;
-  background-color: antiquewhite;
+  background-color: #2890dc;
   padding:10px;
-}
-#break{
-  background-color: black;
 }
 #instalogo{
   width:50px;
   height: 50px;
+  padding: 10px;
+}
+#the_laptop{
+  height: 100px;
+}
+#partner_list{
+  background-color: #3d8cc4;
+  width: 100vw;
+  height: 95vh;
+}
+#partner_table{
+  width: 100%;
+}
+.internet_provider{
+  width:200px;
+  height:150px;
+  padding: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.tabletop{
+  text-align: center;
+  color: green;
+}
+#partnerz{
+  text-align: center;
+  color: rgb(255, 136, 0);
+}
+#contacts{
+  width: 50vw;
+  height: 90vh;
+  background-color: #0f1de2;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+#gmail_logo{
+  height: 150px;
+  width: 150px;
+}
+#instatext{
+  padding: 30px;
+  color: cyan;
+}
+h3{
+  padding: 10px;
+  color:rgb(0, 195, 255);
+}
+#our_partners{
+  text-align: center;
+}
+#future_header{
+  text-align: center;
+}
+#satellite{
+  height: 150px;
+  width: 250px;
 }
