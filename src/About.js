@@ -1,5 +1,6 @@
 import React from 'react';
 import pfp from './pfp.png';
+import pfpAlex from "./alex.png";
 import './About.css';
 
 export default class About extends React.Component {
@@ -14,8 +15,8 @@ export default class About extends React.Component {
                 </div>
                 
                 <div className="right-bio">
-                    <img className="right-pfp" src={pfp} alt="alex-face" />
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Euismod elementum nisi quis eleifend quam adipiscing vitae proin. Amet aliquam id diam maecenas ultricies. Mattis nunc sed blandit libero volutpat.</p>
+                    <img className="right-pfp" src={pfpAlex} alt="alex-face" />
+                    <p>Alexander Wiegand is a web and python developer who runs a <a href="alexwiegand.com">coding blog</a>.</p>
                 </div>
                 
                 <div className="left-bio">
