@@ -10,10 +10,11 @@ h1 {
 
 p {
   font-family: 'Roboto Slab', serif;
+  font-size: 19px;
 }
 
 nav {
-  background-color: #2890dc;
+  background-color: #10578a;
   display:flex;
   height:36pt;
   justify-content: left;
@@ -31,6 +32,9 @@ nav * {
   list-style-type: none;
   margin: 2pt 5pt;
 }
+#reaching_out{
+  text-align: center;
+}
 #text_page{
   margin-left: auto;
   margin-right: auto;
@@ -39,10 +43,37 @@ nav * {
   background-color: #2890dc;
   padding:10px;
 }
-#break{
-  background-color: black;
-}
 #instalogo{
   width:50px;
   height: 50px;
+}
+#the_laptop{
+  height: 100px;
+}
+#partner_list{
+  background-color: aqua;
+  width: 100vw;
+  height: 85vh;
+}
+#partner_table{
+  width: 100%;
+}
+.internet_provider{
+  width:200px;
+  height:150px;
+  padding: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.tabletop{
+  text-align: center;
+  color: green;
+}
+#partnerz{
+  text-align: center;
+  color: blue;
+}
+#contacts{
+  height: 90vh;
 }
