@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
 body{
-  background-color: #c5cddb;
+  background-color: #180d2f;
 }
 h1 {
   font-family: 'Potta One', cursive;
@@ -13,7 +13,7 @@ p {
 }
 
 nav {
-  background-color: #030d3f;
+  background-color: #2890dc;
   display:flex;
   height:36pt;
   justify-content: left;

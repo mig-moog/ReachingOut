@@ -2,14 +2,11 @@
     text-align: center;
 }
 
-.left-bio {
-    min-height: 360px;
-    padding-left: 2%;
-}
-
-.right-bio {
-    min-height: 360px;
+.left-bio, .right-bio {
+    min-height: 460px;
     padding-right: 2%;
+    background-color: #2890dc;
+    border-radius: 5px;
 }
 
 .left-bio > p {
@@ -27,11 +24,13 @@
 }
 
 .pfp {
-    border-radius: 50%;
+    padding-top: 50px;
+    border-radius: 25px;
     float: left;
 }
 
 .right-pfp {
-    border-radius: 50%;
+    padding-top: 50px;
+    border-radius: 25px;
     float: right;
 }
